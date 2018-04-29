@@ -814,9 +814,9 @@ mongoose-legacy-pluralize@1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/mongoose-legacy-pluralize/-/mongoose-legacy-pluralize-1.0.2.tgz#3ba9f91fa507b5186d399fb40854bff18fb563e4"
 
-mongoose-slugger-plugin@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/mongoose-slugger-plugin/-/mongoose-slugger-plugin-1.0.0.tgz#1787b4de0ace2b72b9a44dcb677104356b896d8c"
+mongoose-slugger-plugin@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/mongoose-slugger-plugin/-/mongoose-slugger-plugin-2.0.0.tgz#a0a3f19694f0ac1aaf072e6f170b41b7debe5fce"
   dependencies:
     limax "^1.6.0"
 
